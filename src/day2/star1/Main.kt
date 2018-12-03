@@ -1,4 +1,4 @@
-package day2
+package day2.star1
 
 import java.io.File
 import java.io.InputStream
